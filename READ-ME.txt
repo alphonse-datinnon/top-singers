@@ -1,0 +1,10 @@
+  =>  Nom du site    : Top Singers
+
+  =>  Template Link    : https://grouplightone.com/topsingers
+  =>  Template License : https://grouplightone.com/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : GroupLightOne
+
+  =>  Author Website   : https://grouplightone.com
+
+  =>  About GroupLightOne : Top Singers is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://grouplightone.com/about-us )
